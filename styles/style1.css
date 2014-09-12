@@ -1,0 +1,137 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-image: url("../images/background.gif");
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#container {
+	width: 750px;
+	margin: 0 auto;
+	padding: 10px;
+	border-right: 2px solid #256f7f;
+	border-bottom: 2px solid #256f7f;
+	border-left: 2px solid #256f7f;
+	background-color: #fff;
+}
+#masthead {
+	text-align: center;
+	width: 700px;
+	padding: 10px;
+	border: 1px dotted #256f7f;
+	background-image: url("../images/masthead.gif");
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 139px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-right: 1px dotted #256f7f;
+}
+#content {
+	float: left;
+	width: 530px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 678px;
+	border: 1px dotted #72b1c0;
+}
+#lowerfooter {
+	text-align: center;
+	clear: both;
+	width: 678px;
+}
+
+/* Masthead Styles */
+#masthead h1 {
+	color: #FFFFFF;
+}
+#masthead h3 {
+	color: #256f7f;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #72b1c0;
+	background-color: #72b1c0;
+}
+#navigation a {
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border-bottom: 1px dotted #fff;
+	background-color: #72b1c0;
+}
+#navigation a:hover {
+	color: #256f7f;
+	text-decoration: none;
+	background-color: #fff;
+}
+/* Content Styles */
+h6 {
+	color: #000000;
+}
+h5 {
+	color: #000000;
+}
+h4 {
+	color: #000000;
+}
+h3 {
+	color: #000000;
+}
+h2 {
+	color: #000000;
+}
+#content h1 {
+	color: #000000;
+}
+#content img {
+	padding: 0px;
+	border: 0px solid #256f7f;
+}
+/* Footer Styles */
+#footer p {
+	color: #000000;
+}
+#footer a {
+	color: #000000;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #256f7f;
+	text-decoration: none;
+}
+a {
+	color: #256f7f;
+	text-decoration: underline;
+}
+a:hover {
+	color: #72b1c0;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
