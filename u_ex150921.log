@@ -1,0 +1,233 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 00:29:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 00:29:21 W3SVC53 193.203.116.34 GET / - 80 - 157.55.39.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 5051 404 499
+2015-09-21 00:29:42 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 157.55.39.245 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 2575 389 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 01:30:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 01:30:34 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 157.55.12.70 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+BingPreview/1.0b - http://checkendonpreschool.co.uk/ 200 0 0 578 338 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 06:35:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 06:35:25 W3SVC53 193.203.116.34 GET /robots.txt - 80 - 204.12.241.170 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 404 0 2 1424 190 624
+2015-09-21 06:35:27 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 204.12.241.170 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 200 0 0 4647 412 717
+2015-09-21 06:35:29 W3SVC53 193.203.116.34 GET /term_dates/term_dates.htm - 80 - 204.12.241.170 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 200 0 0 5333 439 265
+2015-09-21 06:35:34 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 204.12.241.170 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 200 0 0 4350 433 249
+2015-09-21 06:42:38 W3SVC53 193.203.116.34 GET / - 80 - 36.251.87.96 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - http://www.checkendonpreschool.co.uk 200 0 0 5070 362 702
+2015-09-21 06:55:36 W3SVC53 193.203.116.34 GET /images/theteamMin.jpg - 80 - 66.249.67.43 Googlebot-Image/1.0 - - 304 0 0 210 261 109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 07:45:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 07:45:41 W3SVC53 193.203.116.34 GET /robots.txt - 80 - 66.249.67.157 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1405 266 296
+2015-09-21 07:45:41 W3SVC53 193.203.116.34 GET / - 80 - 66.249.67.157 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 5051 299 202
+2015-09-21 07:45:52 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 66.249.67.157 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 578 256 124
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 08:10:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 08:10:24 W3SVC53 193.203.116.34 GET / - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://buttons-for-website.com 200 0 0 5051 364 265
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 2575 339 78
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 578 339 93
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 11710 344 171
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 510 326 265
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 510 328 280
+2015-09-21 08:10:25 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 151.52.65.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 24401 334 514
+2015-09-21 08:19:01 W3SVC53 193.203.116.34 GET /robots.txt - 80 - 180.76.15.156 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - 404 0 2 1424 201 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 08:34:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 08:34:35 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 178.152.39.240 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.93+Safari/537.36 - https://www.google.com/ 200 0 0 11710 381 1216
+2015-09-21 08:36:31 W3SVC53 193.203.116.34 GET /forms/forms.htm - 80 - 66.249.67.43 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12F70+Safari/600.1.4+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 304 0 0 211 490 109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 10:20:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 10:20:59 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 180.76.15.140 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 0 4647 252 624
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 11:11:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 11:11:16 W3SVC53 193.203.116.34 GET /robots.txt - 80 - 199.58.86.209 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 404 0 2 1424 186 218
+2015-09-21 11:11:17 W3SVC53 193.203.116.34 GET /information_links/information_links.htm - 80 - 199.58.86.209 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - 200 0 0 3709 426 202
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 11:34:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 11:34:49 W3SVC53 193.203.116.34 GET / - 80 - 86.164.165.105 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - - 200 0 64 0 346 249
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 11:51:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 11:51:29 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 144.76.71.83 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - - 200 0 0 4331 196 62
+2015-09-21 11:51:33 W3SVC53 193.203.116.34 GET /whoswho/whoswho.htm - 80 - 144.76.185.173 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - - 200 0 0 5589 196 78
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 12:36:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET / - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CCwQFjAAahUKEwjnofz7kYjIAhUoR9sKHd3dBmE&url=http%3A%2F%2Fwww.checkendonpreschool.co.uk%2F&usg=AFQjCNG6HEmEvkN9pwshMLlyaCVxTPyAJg&bvm=bv.103073922,d.bGQ 200 0 0 5051 510 296
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 2575 313 46
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 578 313 46
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 11710 370 109
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 510 354 62
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 510 352 46
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 24401 360 218
+2015-09-21 12:36:11 W3SVC53 193.203.116.34 GET /favicon.ico - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - - 404 0 2 1405 245 46
+2015-09-21 12:36:20 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/ 200 0 0 4331 339 62
+2015-09-21 12:36:20 W3SVC53 193.203.116.34 GET /favicon.ico - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - - 404 0 2 1405 245 31
+2015-09-21 12:37:10 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/theteam/theteam.htm 200 0 0 4628 360 62
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /gallery/gallery.htm - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/sessions/sessions.htm 200 0 0 5502 360 62
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /images/lets_celebrate.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57487 377 296
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /images/lets_have_fun.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 67757 376 421
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /images/lets_investigate.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 49788 379 296
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /images/lets_discover.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 12823 376 546
+2015-09-21 12:37:20 W3SVC53 193.203.116.34 GET /images/lets_build.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 15933 373 561
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_make_things_happen.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 62425 386 374
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_walk.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 55950 372 249
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_make_bread.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57991 378 858
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_move.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 50295 372 733
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_create.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 54510 374 1419
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_eat.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 64745 371 1528
+2015-09-21 12:37:21 W3SVC53 193.203.116.34 GET /images/lets_read.jpg - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 58466 372 1029
+2015-09-21 12:37:53 W3SVC53 193.203.116.34 GET /information_links/information_links.htm - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 3690 378 46
+2015-09-21 12:38:01 W3SVC53 193.203.116.34 GET /default.htm - 80 - 86.128.168.33 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - http://www.checkendonpreschool.co.uk/information_links/information_links.htm 200 0 0 5051 370 93
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 13:57:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 13:57:05 W3SVC53 193.203.116.34 GET / - 80 - 180.76.15.15 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 304 0 0 230 317 343
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 14:48:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 14:48:46 W3SVC53 193.203.116.34 GET / - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://success-seo.com/try.php?u=http://checkendonpreschool.co.uk 200 0 0 5051 399 1170
+2015-09-21 14:48:46 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 2575 339 296
+2015-09-21 14:48:47 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 24401 334 982
+2015-09-21 14:48:47 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 578 339 452
+2015-09-21 14:48:47 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 11710 344 842
+2015-09-21 14:48:49 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 510 328 686
+2015-09-21 14:48:49 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 189.230.201.35 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.143+Safari/537.36 - http://checkendonpreschool.co.uk/ 200 0 0 510 326 670
+2015-09-21 14:58:46 W3SVC53 193.203.116.34 GET /robots.txt - 80 - 208.115.113.83 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 0 2 1405 232 140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 16:01:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 16:01:42 W3SVC53 193.203.116.34 GET / - 80 - 77.247.181.165 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 - http://burger-imperia.com/ 200 0 0 5051 251 421
+2015-09-21 16:06:59 W3SVC53 193.203.116.34 GET / - 80 - 208.115.113.83 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 0 5051 222 280
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET / - 80 - 193.23.124.81 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - http://www.checkendon.org/education.htm 200 0 0 5051 417 31
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 193.23.124.81 Mozilla/4.0+(compatible;) - - 200 0 0 2575 276 31
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 193.23.124.81 Mozilla/4.0+(compatible;) - - 200 0 0 11710 296 62
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 193.23.124.81 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - http://www.checkendonpreschool.co.uk/ 200 0 0 578 403 31
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 193.23.124.81 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - http://www.checkendonpreschool.co.uk/ 200 0 0 510 449 78
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 193.23.124.81 Mozilla/4.0+(compatible;) - - 200 0 0 24401 286 140
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 193.23.124.81 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - http://www.checkendonpreschool.co.uk/ 200 0 0 510 447 62
+2015-09-21 16:07:57 W3SVC53 193.203.116.34 GET /favicon.ico - 80 - 193.23.124.81 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Win64;+x64;+Trident/6.0) - - 404 0 2 1405 340 78
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 17:54:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 17:54:03 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 148.251.54.44 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/27.0.1453.93+Safari/537.36 - - 200 0 0 4331 233 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 19:29:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 19:29:51 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 180.76.15.12 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 0 4647 252 561
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET / - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - https://www.google.co.uk/ 200 0 0 5051 383 62
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 2575 367 46
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 578 367 31
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 11710 372 109
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 24401 362 140
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 356 15
+2015-09-21 19:41:24 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 354 31
+2015-09-21 19:41:34 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 4331 414 31
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /gallery/gallery.htm - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/theteam/theteam.htm 200 0 0 5502 433 31
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_have_fun.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 67757 378 156
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_walk.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 55950 374 156
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_create.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 54510 376 514
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_move.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 50295 374 561
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_investigate.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 49788 381 561
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_eat.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 64745 373 733
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_make_things_happen.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 62425 388 171
+2015-09-21 19:42:03 W3SVC53 193.203.116.34 GET /images/lets_discover.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 12823 378 124
+2015-09-21 19:42:04 W3SVC53 193.203.116.34 GET /images/lets_read.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 58466 374 280
+2015-09-21 19:42:04 W3SVC53 193.203.116.34 GET /images/lets_make_bread.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57991 380 343
+2015-09-21 19:42:04 W3SVC53 193.203.116.34 GET /images/lets_celebrate.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57487 379 1029
+2015-09-21 19:42:04 W3SVC53 193.203.116.34 GET /images/lets_build.jpg - 80 - 87.114.255.201 Mozilla/5.0+(iPad;+CPU+OS+8_4+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H143+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 15933 375 577
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET / - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - https://www.google.co.uk/ 200 0 0 5051 382 405
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 2575 366 62
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 11710 371 218
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 578 366 31
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 355 31
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 353 31
+2015-09-21 19:47:27 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 24401 361 187
+2015-09-21 19:47:30 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 4331 413 171
+2015-09-21 19:48:46 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/theteam/theteam.htm 200 0 0 4628 434 78
+2015-09-21 19:48:54 W3SVC53 193.203.116.34 GET /contact/contact.htm - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/theteam/theteam.htm 200 0 0 4154 432 31
+2015-09-21 19:48:54 W3SVC53 193.203.116.34 GET /contact/images/SchoolSign.jpg - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/contact/contact.htm 200 0 0 22895 382 93
+2015-09-21 19:49:04 W3SVC53 193.203.116.34 GET /term_dates/term_dates.htm - 80 - 86.21.115.212 Mozilla/5.0+(iPad;+CPU+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/contact/contact.htm 200 0 0 5314 438 62
+2015-09-21 19:59:51 W3SVC53 193.203.116.34 GET /forms/regform12.docx - 80 - 180.76.15.134 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 0 13997 251 702
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 20:31:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 20:31:22 W3SVC53 193.203.116.34 HEAD /scripts/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 80 15771
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /include/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 80 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /editorold/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 72 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /system/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 79 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /includes/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 81 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /inc/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 76 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /js/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 75 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /editor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 69 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 72 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /editor1/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 70 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /admin/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 78 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /editor/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 79 17206
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /manage/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 79 14024
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /common/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 79 14024
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /fck/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 66 14024
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /ckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 71 14024
+2015-09-21 20:31:23 W3SVC53 193.203.116.34 HEAD /sysadmin/fckeditor/editor/ - 80 - 172.240.96.58 - - - 404 0 64 0 81 12542
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET / - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - - 200 0 0 5051 386 46
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 2575 406 15
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 578 406 0
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 11710 411 62
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 24401 401 62
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 395 15
+2015-09-21 20:42:44 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 85.255.232.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A344+Safari/601.1 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 393 15
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-09-21 21:06:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET / - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - https://www.google.co.uk/ 200 0 0 5051 385 171
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /styles/style1.css - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 2575 369 31
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /styles/layout.css - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 578 369 31
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /images/Signage+for+Allumsigns.gif - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 11710 374 124
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /images/background.gif - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 358 46
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /images/masthead.gif - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 510 356 46
+2015-09-21 21:06:57 W3SVC53 193.203.116.34 GET /images/Schoolacrossroad.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 24401 364 156
+2015-09-21 21:07:02 W3SVC53 193.203.116.34 GET /sessions/sessions.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/ 200 0 0 4628 418 93
+2015-09-21 21:07:23 W3SVC53 193.203.116.34 GET /forms/forms.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/sessions/sessions.htm 200 0 0 3371 433 46
+2015-09-21 21:07:29 W3SVC53 193.203.116.34 GET /forms/regform2.docx - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/forms/forms.htm 200 0 0 14270 431 62
+2015-09-21 21:07:47 W3SVC53 193.203.116.34 GET /theteam/theteam.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/forms/forms.htm 200 0 0 4331 431 62
+2015-09-21 21:08:10 W3SVC53 193.203.116.34 GET /contact/contact.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/theteam/theteam.htm 200 0 0 4154 435 46
+2015-09-21 21:08:10 W3SVC53 193.203.116.34 GET /contact/images/SchoolSign.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/contact/contact.htm 200 0 0 22895 385 62
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /gallery/gallery.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/contact/contact.htm 200 0 0 5502 435 46
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_have_fun.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 67757 380 140
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_move.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 50295 376 109
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_read.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 58466 376 312
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_celebrate.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57487 381 561
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_create.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 54510 378 483
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_discover.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 12823 380 530
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_build.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 15933 377 561
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_investigate.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 49788 383 733
+2015-09-21 21:08:14 W3SVC53 193.203.116.34 GET /images/lets_make_bread.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 57991 382 842
+2015-09-21 21:08:15 W3SVC53 193.203.116.34 GET /images/lets_eat.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 64745 375 858
+2015-09-21 21:08:15 W3SVC53 193.203.116.34 GET /images/lets_walk.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 55950 376 873
+2015-09-21 21:08:15 W3SVC53 193.203.116.34 GET /images/lets_make_things_happen.jpg - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 62425 390 436
+2015-09-21 21:08:32 W3SVC53 193.203.116.34 GET /default.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/gallery/gallery.htm 200 0 0 5051 427 31
+2015-09-21 21:08:43 W3SVC53 193.203.116.34 GET /information_links/information_links.htm - 80 - 109.150.71.129 Mozilla/5.0+(iPad;+CPU+OS+8_4_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12H321+Safari/600.1.4 - http://www.checkendonpreschool.co.uk/default.htm 200 0 0 3690 447 62
